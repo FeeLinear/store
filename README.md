@@ -1,2 +1,2 @@
 # store
-my story
+get: https://feelinear.github.io/store/fileName
